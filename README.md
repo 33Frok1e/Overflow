@@ -85,6 +85,4 @@ The project uses MongoDB for a robust database layer, NextAuth (Auth.js) for ver
 
 and many more, including code architecture and reusability
 
-   <div align="center">
-     Build this project from <b>JavaScript Mastery</b>.
-    </div>
+<div>Build this project from <b>JavaScript Mastery</b>.</div>
