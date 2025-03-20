@@ -19,11 +19,9 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-In this in-depth course, you’ll master Next.js by building and deploying a full-stack project, Devoverflow—a community-driven platform inspired by StackOverflow, enhanced with AI-powered answers, gamification, recommendations, and more. Using the latest features of Next.js, you’ll explore rendering strategies like SSG, ISR, SSR, PPR, Server Functions, Caching, & Revalidation to create a production-ready application.
+A full-stack project, Devoverflow—a community-driven platform inspired by StackOverflow, enhanced with AI-powered answers, gamification, recommendations, and more. Using the latest features of Next.js, Here rendering strategies like SSG, ISR, SSR, PPR, Server Functions, Caching, & Revalidation to create a production-ready application.
 
 The project uses MongoDB for a robust database layer, NextAuth (Auth.js) for versatile authentication options (Email/Password, GitHub, Google), and sleek styling with TailwindCSS and ShadCN UI. Devoverflow enables developers to ask questions, post answers, leverage AI for responses, vote, organize content, contribute, discover jobs, and explore recommended topics—all while engaging with gamified elements like badges and rewards.
-
-If you're getting started and need assistance or encounter any bugs, you can join our active PRO Discord community, which has over 5k+ members. It's a place where people help each other out.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
